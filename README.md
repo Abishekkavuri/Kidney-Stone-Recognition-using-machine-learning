@@ -45,10 +45,12 @@ python kidney_stone_detection.py --image input_image.jpg
 ![Preprocessing Steps](https://github.com/user-attachments/assets/cd849989-535b-4864-a5c3-a7631210c37a)
 
 ### Filtering Techniques
-![Filtering Techniques](Picture2.jpg)
+![Filtering Techniques](https://github.com/user-attachments/assets/13538ae4-7348-4b57-aa33-d91a6af4e020)
+
 
 ### Final Detection
-![Final Detection](final_detection.jpg)
+![Final Detection](https://github.com/user-attachments/assets/de9e859f-71de-44b6-96f4-d66ad6144390)
+
 
 - The first image shows the different stages of preprocessing.
 - The second image applies Gaussian and Median filters.
