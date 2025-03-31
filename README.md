@@ -58,6 +58,3 @@ python kidney_stone_detection.py --image input_image.jpg
 
 ## Contribution
 Feel free to contribute by improving detection accuracy, optimizing preprocessing techniques, or experimenting with deep learning models.
-
-## License
-This project is licensed under the MIT License.
