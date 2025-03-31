@@ -42,7 +42,7 @@ python kidney_stone_detection.py --image input_image.jpg
 
 ## Results
 ### Preprocessing Steps
-![Preprocessing Steps](![Picture1](https://github.com/user-attachments/assets/cd849989-535b-4864-a5c3-a7631210c37a))
+![Preprocessing Steps](https://github.com/user-attachments/assets/cd849989-535b-4864-a5c3-a7631210c37a)
 
 ### Filtering Techniques
 ![Filtering Techniques](Picture2.jpg)
